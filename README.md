@@ -1,8 +1,6 @@
 <!--About Me-->
-# Hi, I'm Mustafa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
-
-I am a software engineer and like to develop sophisticated solutions🦾
-
+# Hey, I'm Mustafa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" style="display: inline;">
+I am a software engineer and like to develop sophisticated solutions 🦾
 
 ### Skills
 
@@ -18,4 +16,7 @@ I am a software engineer and like to develop sophisticated solutions🦾
 </p>
 
 ### Socials
-<p align="left"> <a href="https://www.github.com/mstfgueclue" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mustafa-gueclue" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+  <a href="https://www.github.com/mstfgueclue" target="_blank" rel="noreferrer" style=""><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/mustafa-gueclue" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
